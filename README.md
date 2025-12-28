@@ -1,0 +1,1 @@
+### Repo for the langchain training from langchain academy
